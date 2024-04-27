@@ -1,5 +1,3 @@
-import java.lang.reflect.Parameter;
-import java.text.ParseException;
 import java.util.Scanner;
 
 public class Contador {
